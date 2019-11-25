@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>bisa juga</title>
+	<title>iya bud</title>
 </head>
 <body>
 
